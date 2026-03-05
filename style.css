@@ -1,1 +1,19 @@
+h1{
+    color: rgb(228, 172, 18);
+    text-align: center;
+}
 
+body {
+    background-color: rgb(192, 52, 41);
+}
+
+img{
+    width: 500px;
+    padding-left: 10px;
+    float: left;
+}
+
+#Margarita{
+    color: rgb(228, 172, 18);
+    text-align: left;
+}
