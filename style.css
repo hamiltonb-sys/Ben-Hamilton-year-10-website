@@ -15,5 +15,55 @@ img{
 
 #Margarita{
     color: rgb(228, 172, 18);
-    text-align: left;
+    text-align: right;
+    text-size-adjust: 20px;
+   
+}
+
+a{
+     text-decoration: none;
+}
+p{
+    color: rgb(228, 172, 18);
+    size: 30px;
+    font-weight: bold;
+}
+.HistoryofM{
+ color: rgb(228, 172, 18);
+    size: 60px;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-left: 520px;           
+   
+}
+
+.maghistory{
+    text-align: center;
+}
+.homemagimg{
+    align-content: left;
+}
+.magpic{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ol{
+    color: rgb(228, 172, 18);
+    size: 30px;
+    font-weight: bold;
+    float: right;
+    padding: 10px;
+    padding-left: 20px;
+    position: relative;
+    top: -160px; /* Moves the text 10 pixels up */
+  
+}
+
+.plplp{
+    width: 500px;
+    padding-left: 10px;
+    float: right;
+    padding-right: 40px;
+    padding-top: 50px;
 }
